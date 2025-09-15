@@ -1,0 +1,3 @@
+trying branching
+its nice working on this
+why im not getting modified thing here in git status
